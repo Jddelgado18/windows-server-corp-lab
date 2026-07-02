@@ -22,7 +22,6 @@ Steps followed and Lessons learned.
 6. Configured static IP: `192.168.56.10`
 
 ### Screenshots
-![Windows Server 2022 VM in VirtualBox]
 <img width="1839" height="1025" alt="image" src="https://github.com/user-attachments/assets/a2962891-11ec-4db4-88a4-9c22233a324e" />
 <img width="1189" height="758" alt="Screenshot 2026-07-01 090817" src="https://github.com/user-attachments/assets/d3c68a66-a9af-4403-9392-d5fbe2ed0981" />
 <img width="1992" height="959" alt="Screenshot 2026-07-01 105651" src="https://github.com/user-attachments/assets/f9228430-c1f9-4abd-9bf5-f9d41da0491f" />
